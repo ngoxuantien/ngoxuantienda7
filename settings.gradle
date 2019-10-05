@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='ngoxuantien_day7'
